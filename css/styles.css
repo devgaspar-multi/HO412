@@ -1,0 +1,426 @@
+@font-face {
+  font-display: swap;
+  font-family: "elza";
+  font-weight: 400;
+  src: url("../fonts/Elza-Regular.ttf");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "elza";
+  font-weight: 700;
+  src: url("../fonts/Elza-Bold.ttf");
+}
+
+.lamina-hO412-container {
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.main-banner-hO412 {
+  display: flex;
+  justify-content: center;
+}
+
+.hO412-main-banner-desk,
+.hO412-seu-lado-na-limpeza-desk {
+  display: flex;
+  margin: 0px;
+  width: 100%;
+}
+
+.hO412-main-banner-mb,
+.hO412-seu-lado-na-limpeza-mb {
+  display: none;
+  width: 100%;
+}
+
+.hO412-features-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 200px;
+  gap: 130px;
+}
+
+.hO412-features-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hO412-features-txt {
+  font-family: "elza", serif;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 112%;
+  letter-spacing: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ff8200;
+  max-width: 262px;
+}
+
+.hO412-seu-lado-na-limpeza-container {
+  display: flex;
+  align-items: center;
+}
+
+.hO412-seu-lado-na-limpeza-left {
+  max-width: 556px;
+  margin-left: auto;
+  margin-right: 98px;
+}
+
+.hO412-subtitle {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 105%;
+  letter-spacing: 0px;
+  color: #ff8200;
+  margin-top: 0px;
+  margin-bottom: 51px;
+  display: flex;
+  justify-content: center;
+}
+
+.hO412-txt {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: justify;
+  color: #2f2f2f;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  max-width: 1231px;
+}
+
+.h430-footer {
+  height: 160px;
+  background: #0050dc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.h430-footer-logo {
+  padding-left: 89px;
+}
+
+.h430-footer-txt {
+  padding-right: 127px;
+  font-family: "elza", sans-serif;
+  font-weight: 400;
+  font-size: 33.71px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+  vertical-align: bottom;
+  color: #fff;
+}
+
+.hO412-varre-e-aspira-desk,
+.hO412-pets-desk {
+  display: flex;
+  width: 100%;
+}
+
+.hO412-varre-e-aspira-mb,
+.hO412-pets-mb {
+  display: none;
+  width: 100%;
+}
+
+.hO412-modos-de-limpeza-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 29px;
+  margin: 125px 0px;
+}
+
+.hO412-modos-de-limpeza-left-content {
+  width: 100%;
+  max-width: 878px;
+  height: 259px;
+  background: #ff8200;
+  border-top-right-radius: 52px;
+  border-bottom-right-radius: 52px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.hO412-modos-de-limpeza-card {
+  width: 242px;
+  height: 259px;
+  background-color: #ff8200;
+  border-radius: 52px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.hO412-modos-de-limpeza-left-content-txt {
+  font-family: Open Sans;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 110%;
+  letter-spacing: 0px;
+  color: #fff;
+  max-width: 509px;
+  margin-top: 0px;
+  margin-bottom: 57px;
+  margin-right: 49px;
+}
+
+.hO412-modos-de-limpeza-right-content {
+  display: flex;
+  gap: 29px;
+}
+
+.hO412-modos-de-limpeza-right-content-txt {
+  font-family: Elza;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 112%;
+  letter-spacing: 0px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  margin: 31px 0px 39px 0px;
+}
+
+.hO412-superficie-desk,
+.hO412-triple-banner-desk {
+  display: flex;
+  width: 100%;
+}
+
+.hO412-superficie-mb,
+.hO412-triple-banner-mb {
+  display: none;
+  width: 100%;
+}
+
+.hO412-superficie-container .hO412-txt {
+  margin: 0 auto;
+}
+
+.hO412-triple-banner-container {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  gap: 57px;
+  margin-bottom: 160px;
+}
+
+.hO412-triple-banner-subtitle {
+  font-family: Open Sans;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 110%;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #ff8200;
+  margin-top: 57px;
+  margin-bottom: 31px;
+}
+
+.hO412-triple-banner-txt {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #2f2f2f;
+  margin: 0px;
+}
+
+@media (max-width: 1480px) {
+  .hO412-features-container {
+    gap: 60px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .hO412-modos-de-limpeza-right-content {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 1200px) {
+  .hO412-modos-de-limpeza-container {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 1140px) {
+  .hO412-features-txt {
+    font-size: 20px;
+    max-width: 130px;
+  }
+
+  .hO412-features-img {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+/* Tablet e Mobile */
+
+@media (max-width: 834px) {
+  .hO412-main-banner-mb,
+  .hO412-seu-lado-na-limpeza-mb {
+    display: flex;
+  }
+
+  .hO412-varre-e-aspira-mb,
+  .hO412-pets-mb {
+    display: flex;
+  }
+
+  .hO412-varre-e-aspira-desk,
+  .hO412-pets-desk {
+    display: none;
+  }
+
+  .hO412-seu-lado-na-limpeza-desk,
+  .hO412-main-banner-desk {
+    display: none;
+  }
+
+  .hO412-features-container {
+    flex-wrap: wrap;
+  }
+
+  .h430-footer-logo {
+    padding-left: 0px;
+    max-width: 122px;
+  }
+
+  .h430-footer-txt {
+    padding-right: 22px;
+    font-size: 16px;
+  }
+
+  .hO412-subtitle {
+    font-size: 32px;
+    padding: 0px 25px;
+    margin-bottom: 33px;
+  }
+
+  .hO412-txt {
+    font-size: 16px;
+    padding: 0px 25px;
+  }
+
+  .hO412-seu-lado-na-limpeza-mb {
+    margin-top: 50px;
+  }
+
+  .hO412-features-container {
+    margin-bottom: 86px;
+  }
+
+  .hO412-superficie-desk,
+  .hO412-triple-banner-desk {
+    display: none;
+  }
+
+  .hO412-superficie-mb,
+  .hO412-triple-banner-mb {
+    display: flex;
+  }
+
+  .h430-footer {
+    height: 84px;
+  }
+
+  .hO412-triple-banner-container {
+    flex-direction: column;
+  }
+
+  .hO412-seu-lado-na-limpeza-container {
+    flex-direction: column;
+  }
+
+  .hO412-subtitle {
+    justify-content: flex-start;
+  }
+
+  .hO412-seu-lado-na-limpeza-left {
+    margin-right: auto;
+    max-width: 100%;
+  }
+
+  .hO412-seu-lado-na-limpeza-right {
+    width: 100%;
+  }
+
+  .hO412-modos-de-limpeza-left-content {
+    margin-right: 24px;
+  }
+
+  .hO412-superficie-mb {
+    margin-top: 33px;
+  }
+
+  .hO412-triple-banner-container {
+    margin: 53px 0px;
+    padding: 0px 43px;
+  }
+}
+
+@media (max-width: 600px) {
+  .hO412-modos-de-limpeza-left-content {
+    height: 160px;
+    align-items: center;
+  }
+
+  .hO412-modos-de-limpeza-left-content-txt {
+    font-size: 32px;
+    margin: 0px;
+    padding-left: 25px;
+  }
+
+  .hO412-modos-de-limpeza-card {
+    width: 181px;
+    height: 191px;
+  }
+
+  .hO412-modos-de-limpeza-card img {
+    max-width: 66px;
+  }
+
+  .hO412-modos-de-limpeza-right-content {
+    padding: 0px 25px;
+    gap: 15px;
+  }
+
+  .hO412-modos-de-limpeza-right-content-txt {
+    font-size: 18px;
+    margin: 23px 0px 34px 0px;
+  }
+
+  .hO412-triple-banner-subtitle {
+    font-size: 32px;
+    margin: 14px 0px;
+  }
+
+  .hO412-triple-banner-txt {
+    font-size: 16px;
+  }
+
+  .hO412-features-container {
+    gap: 45px;
+  }
+}
